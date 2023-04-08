@@ -10,6 +10,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: transparent;
 }
 
 button {
@@ -45,5 +46,5 @@ button {
 }
 
 .link:hover {
-  background: #243a4a;
+  background: transparent;
 }
